@@ -24,3 +24,7 @@ function lastImageSelector() {
 function ninjaBabySelector() {
   return $('#baby-ninja')
 }
+
+functino divSelector() {
+  return $('.pics')
+}
