@@ -5,18 +5,14 @@ $('#baby-ninja')    // id selector
 $('ul li')          // descendant selector
 
 $('parent-tag child-tag:first-child')       // first child
-$('div img:first-child')                    // 
+$('div img:first-child')                    //
 $("img[alt='the beatles making faces']")    // alt tag selector
 $('div:last')                               // last selector
 
 $(document).ready(function() {              // document ready!!!
-  
+
 })
 
 function paragraphSelector() {
   return $('p')
 }
-
-
-
-
