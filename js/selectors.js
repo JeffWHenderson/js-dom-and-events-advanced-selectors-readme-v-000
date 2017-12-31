@@ -1,2 +1,3 @@
 // declare your functions here...
 $('div').append('hello')
+$('.pics')
